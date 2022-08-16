@@ -1,6 +1,6 @@
 # Sup
 
-<img src='https://www.codewars.com/users/polo.guasch/badges/large' class='right'>
+<img src='https://www.codewars.com/users/polo.guasch/badges/large' class='center'>
 
 ---
 
