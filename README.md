@@ -1,5 +1,7 @@
 # Sup
 
+<img src='https://www.codewars.com/users/polo.guasch/badges/large'>
+
 ---
 
 I'm polo, I make music sometimes and I like to touch data and stuff. 
